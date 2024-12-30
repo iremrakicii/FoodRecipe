@@ -14,19 +14,19 @@ Welcome to **İrem's Delicious Recipes**! This is a web application where you ca
 ## Screenshots
 
 ### Home Page
-![Home Page](./Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-12-30%20165427.png)
+![Home Page] ![Ekran görüntüsü 2024-12-30 165427](https://github.com/user-attachments/assets/786f38cd-5349-4524-94cf-9d9f3cfa85e9)
 *Explore the most delicious dishes from around the world!*
 
 ### Recipe Categories
-![Recipe Categories](./Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-12-30%20165441.png)
+![Recipe Categories] ![Ekran görüntüsü 2024-12-30 165441](https://github.com/user-attachments/assets/19fd7401-2760-4f28-9a93-82a598b068ef)
 *Discover a variety of recipes organized by category.*
 
 ### Dubai Chocolate Recipe
-![Dubai Chocolate Recipe](./Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-12-30%20165451.png)
+![Dubai Chocolate Recipe]![Ekran görüntüsü 2024-12-30 165451](https://github.com/user-attachments/assets/bca6a083-1259-4b5e-a0cf-f195840bc188)
 *Follow detailed steps to create Dubai Chocolate.*
 
 ### Falafel Recipe
-![Falafel Recipe](./Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-12-30%20165503.png)
+![Falafel Recipe]![Ekran görüntüsü 2024-12-30 165503](https://github.com/user-attachments/assets/38ffe89f-d18f-4b22-bae5-5b75af95e51e)
 *Learn how to make authentic Middle Eastern falafel.*
 
 ---
